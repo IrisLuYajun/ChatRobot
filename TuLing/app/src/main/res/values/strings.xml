@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IrisLu的小灵</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">send</string>
+    <string-array name = "welcome_tips">
+        <item>早上好，下午好，以及晚上好！</item>
+        <item>你好我好大家好！我是小灵灵</item>
+        <item>主人，你又变漂亮了！小灵爱死你了，嚒嘛！</item>
+        <item>主人，要好好吃饭，开心每一天！</item>
+        <item>怎么这么久才来看我，想死你了！</item>
+
+    </string-array>
+</resources>
